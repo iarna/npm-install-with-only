@@ -1,0 +1,17 @@
+{
+  "name": "npm-install-with-only",
+  "version": "1.0.0",
+  "description": "Only install SOME of the dependencies your package.json",
+  "bin": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rebecca Turner <me@re-becca.org> (http://re-becca.org/)",
+  "license": "ISC",
+  "dependencies": {
+    "find-npm-prefix": "^1.0.2",
+    "qw": "^1.0.1"
+  }
+}
